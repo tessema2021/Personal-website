@@ -30,6 +30,17 @@ a {
          -o-transition: all .3s ease-in 0s;
             transition: all .3s ease-in 0s;
 }
+.link {
+  color: #000;
+  text-align: center;
+  margin-left: 500px;
+}
+.contact {
+  text-align: center;
+}
+.nut-project {
+  text-align: center;
+}
 
 iframe {
     border: 0;
