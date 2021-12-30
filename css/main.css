@@ -38,8 +38,29 @@ a {
 .contact {
   text-align: center;
 }
-.nut-project {
-  text-align: center;
+.maincontainer {
+  display: flex;
+  flex: 1;
+}
+.nut-description {
+  width: 400px;
+  margin-left: 50px;
+}
+.nutshell {
+  margin-left: 100px;
+}
+.nut-group {
+  margin-left: 100px;
+}
+.medical-project {
+  margin-left: 200px;
+}
+.app-description {
+  width: 400px;
+  margin-left: 50px;
+}
+.Medical_App {
+  margin-left: 100px;
 }
 
 iframe {
